@@ -1,2 +1,4 @@
+
 # singa
-singa will be a lightweight c and c++ web framework
+singa 是我自己用的一个小型web框架,目前还是非常不完善的,仅支持加载静态文件和json返回,还不支持cookie和session等等的一些操作,现在就把他放上来是希望借此督促自己要不断完善这个web框架.
+希望后续增加对cookie,session,多进程,多线程等等一些的处理.另外,json的解析和返回使用的是cJSON这个伟大的json处理框架.
