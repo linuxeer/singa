@@ -1,6 +1,6 @@
 #include "singa.h"
 #include "cJSON.h"
-
+//
 void getPets(FILE * fp_resp) {
     fprintf(fp_resp , "HTTP/1.1 200 ok\r\n");
     fprintf(fp_resp , "text/javascript\r\n");
